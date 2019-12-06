@@ -1,8 +1,16 @@
-.wiki{
-  width: 800px;
-  height: 600px;
+img {
+  max-width: 50%;
+  width: 20;
+}
+p{
+  font-family: 'Solway' serif;
+  font-size: 80px;
 
 }
-a:hover {
-  color: #21ABCD;
+h1{
+  font-size: 125px;
+  font-family: "Solway" serif;
+}
+table{
+  font-size: 50px;
 }
